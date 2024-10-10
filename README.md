@@ -43,10 +43,3 @@ Informações de Contato: Email, redes sociais, etc.
 Redes Sociais: Ícones para WhatsApp, Discord, LinkedIn, etc.
 Créditos: "© 2024 Código Certo Coders. Todos os direitos reservados."
 
-#### Apreciações: 🎉
-
-Feedbacks visuais para o usuário.
-
-Design Responsivo e Adaptável.
-
-Facilidade de Prototipagem.
